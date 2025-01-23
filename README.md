@@ -1,5 +1,3 @@
-ChikaFranciscaChidimma / README.md
-
 🔭 I’m currently advancing my expertise in data science and machine learning by working on impactful projects.
 
 👯 I’m looking to collaborate on data-driven projects, predictive modeling, and innovative AI solutions.
