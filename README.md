@@ -30,9 +30,6 @@ I am not just a data scientist; I am a problem solver who transforms complex dat
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50" height="50"/>
 </a>
 
-
-
-
-⚡ Fun fact: My favorite projects combine creativity and logic, proving that data can be both an art and a science.
-
-💻 Tech Stack: Python Tableau Excel Machine Learning Data Visualization Data Analysis
+**💻 Tech Stack:**
+---
+Python Tableau Excel Machine Learning Data Visualization Data Analysis
