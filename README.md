@@ -22,7 +22,7 @@ I am not just a data scientist; I am a problem solver who transforms complex dat
 
 **🌍 Connect with Me:**
 ---
-<a href="https://www.linkedin.com/in/chika-francisca-chidimma-659428203/" style="text-decoration: none; color: #0077b5; border: 2px solid #0077b5; padding: 5px 10px; border-radius: 5px; font-weight: bold;">
+<a href="https://www.linkedin.com/in/chika-francisca-chidimma-659428203/" style="text-decoration: none; color: #0077b5; border: 2px solid #0077b5; padding: 10px 20px; border-radius: 30px; font-weight: bold;">
   LinkedIn
 </a>
 
