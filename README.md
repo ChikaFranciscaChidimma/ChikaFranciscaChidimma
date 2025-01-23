@@ -20,8 +20,8 @@ I am not just a data scientist; I am a problem solver who transforms complex dat
 
 ✨ Empowering the next generation of tech enthusiasts through mentorship and STEM advocacy. 👩🏽‍🏫 Inspiring young women to pursue careers in technology and engineering.
 
-🌍 Connect with Me:
-
+**🌍 Connect with Me:**
+---
 LinkedIn GitHub
 
 ⚡ Fun fact: My favorite projects combine creativity and logic, proving that data can be both an art and a science.
