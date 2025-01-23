@@ -9,7 +9,7 @@
 ⚡ Fun fact: I turn raw data into stories that empower smarter decisions.
 
 **💫 About Me:** 
-<hr>
+***
 I am not just a data scientist; I am a problem solver who transforms complex datasets into meaningful insights. Whether building predictive models, analyzing market trends, or visualizing data, I thrive on uncovering solutions that drive innovation and growth.
 
 🤖 Data Scientist & Analyst:
