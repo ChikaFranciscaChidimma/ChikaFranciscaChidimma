@@ -23,7 +23,8 @@ I am not just a data scientist; I am a problem solver who transforms complex dat
 **🌍 Connect with Me:**
 ---
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/chika-francisca-chidimma-659428203/)
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)]([https://www.facebook.com/your-profile-link/](https://www.facebook.com/share/163jjSDmPZ/?mibextid=wwXIfr))
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/share/163jjSDmPZ/?mibextid=wwXIfr)
+
 
 
 ⚡ Fun fact: My favorite projects combine creativity and logic, proving that data can be both an art and a science.
