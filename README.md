@@ -15,12 +15,16 @@ I am not just a data scientist; I am a problem solver who transforms complex dat
 🤖 Data Scientist & Analyst:
 
 📊 Insight Creator: Extracting actionable insights from structured and unstructured data. 
+
 📈 Model Builder: Crafting predictive and classification models to solve real-world problems. 
+
 📚 Knowledge Sharer: Passionate about breaking down complex concepts for others.
 
 🎓 STEM Ambassador & Mentor:
 
-✨ Empowering the next generation of tech enthusiasts through mentorship and STEM advocacy. 👩🏽‍🏫 Inspiring young women to pursue careers in technology and engineering.
+✨ Empowering the next generation of tech enthusiasts through mentorship and STEM advocacy. 
+
+👩🏽‍🏫 Inspiring young women to pursue careers in technology and engineering.
 
 **🌍 Connect with Me:**
 ---
@@ -34,4 +38,14 @@ I am not just a data scientist; I am a problem solver who transforms complex dat
 
 **💻 Tech Stack:**
 ---
-Python Tableau Excel Machine Learning Data Visualization Data Analysis
+Python 
+
+Tableau 
+
+Excel 
+
+Machine Learning 
+
+Data Visualization 
+
+Data Analysis
