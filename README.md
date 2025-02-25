@@ -26,15 +26,12 @@ I am not just a data scientist; I am a problem solver who transforms complex dat
 
 👩🏽‍🏫 Inspiring young women to pursue careers in technology and engineering.
 
-**🌍 Connect with Me:**
----
-<a href="https://www.linkedin.com/in/chika-francisca-chidimma-659428203/" style="text-decoration: none; color: #0077b5; border: 2px solid #0077b5; padding: 10px 20px; border-radius: 30px; font-weight: bold;">
-  LinkedIn
-</a>
+## 🌍 Connect with Me  
 
-<a href="https://www.facebook.com/share/163jjSDmPZ/?mibextid=wwXIfr">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50" height="50"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chika-francisca-chidimma-659428203/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/163jjSDmPZ/?mibextid=wwXIfr)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white)](https://chikafranciscachidimma-portfolio.lovable.app/)
+
 
 **💻 Tech Stack:**
 ---
