@@ -38,14 +38,12 @@ I am not just a data scientist; I am a problem solver who transforms complex dat
 
 **💻 Tech Stack:**
 ---
-Python 
+## Skills & Tools  
 
-Tableau 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00ADD8?style=for-the-badge&logo=powerbi&logoColor=white)  
 
-Excel 
-
-Machine Learning 
-
-Data Visualization 
-
-Data Analysis
